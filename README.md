@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Jimmy
 - 👀 I’m interested in AI & Front-end Engineering
 - 🌱 I’m currently learning Math & AI
-- 💞️ I’m looking to collaborate with interesting persons
+- 💞️ I’m looking to collaborate with all interesting persons
 - 📫 wickedcode@outlook.com
 
 <!---
