@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jimmy
 - 👀 I’m interested in AI & Front-end Engineering
-- 🌱 I’m currently learning Math & AI
+- 🌱 I’m currently hunting for a new job in Canada
 - 💞️ I’m looking to collaborate with all interesting persons
 - 📧 wickedcode@outlook.com
 - 🔗 https://wickedcode01.github.io/Jimmy/
